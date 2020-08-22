@@ -1,0 +1,124 @@
+* {
+          margin: 0px;
+           padding:0px;
+         }
+
+         body {
+           text-align: left;
+           font-family: Arial, serif;
+         }  
+         
+         .quote {
+           font-family: Dancing Script, serif;
+           font-size: 2.0em;
+           height: 425px;
+           width: 350px;
+           margin: 10 auto;
+		   text-align:left-side;
+           background-color: #efefef;
+           padding: 50px;
+           background-color: rgba(255, 255, 255, 0.7);
+           border-radius: 0px;
+           color: #000;
+           box-shadow: -10px 10px 20px rgba(100, 100, 100, .9);
+         }
+ h1 {
+           font-family: Sigmar One;
+           font-weight: bold;
+           color: darkblue;
+         }
+          
+
+
+body {
+  margin: 50;
+  font-family: 'Lucida Grande', tahoma,arial,sans-serif Arial, Helvetica;
+  line-height: 1.30;
+}
+.row2 {
+  
+  color:#9daccb;
+  font-size:11px;
+  width:164px;
+  cursor:pointer;
+}
+
+#leftbod {
+  width:565px;
+  display:inline-block;
+}
+#rightbod {
+  display:inline-block;
+  vertical-align:down;
+  width:350px;
+  height:250px;
+  float:right;
+}
+.signup {
+  font-size:30px;
+  -webkit-font-smoothing:subpixel- antialiased;
+  font-weight:300;
+  margin-bottom:10px;
+}
+.bolder {
+  font-family: Arial, Helvetica, sans-serif;
+  text-rendering:optimizelegibility;
+  color:#333;
+}
+.inputbody {
+  display: inline-block;
+  font-size: 11px;
+  padding: 10px 08px;
+  border: 3px bold #bdc7d8;
+-webkit-border-radius: 10px;
+  margin-bottom:15px;
+}
+::-webkit-input-placeholder {
+   color: #2F4F4F	;
+}
+.in1 {
+  width:125px;
+}
+.in2 {
+  width:270px;
+}
+.in3{
+   width:270px;
+}
+.in4{
+  width:270px;
+}
+.in5{
+  width:270px;
+  height:60px;
+}
+.agree {
+  font-size: 18px;
+  color: #333;
+  width:316px;
+  margin: 08px 0 11px ;
+}
+.link {
+  font-size: 25px;
+  color:#800000;
+  display: inline-block;
+  cursor: pointer;
+}
+.signbut {
+  font-size: 15px;
+  font-weight: 300;
+  letter-spacing:0px;
+  color:#fff;
+  min-width: 319px;
+  padding: 5px 15px;
+  text-align: center;
+  -webkit-border-radius: 5px;
+  background: -webkit-linear-gradient(#0095f6,#0095f6);
+  -webkit-box-shadow: inset 0px  0px 0px #0095f6;
+  margin-top: 5px;
+margin-bottom: 10px;
+        text-shadow: 0 1px 2px rgba(0,0,0,.5);
+  cursor:pointer;
+}
+body{
+  background-image:url(https://wallpaperaccess.com/full/1657858.jpg)
